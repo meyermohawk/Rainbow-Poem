@@ -1,4 +1,4 @@
-The rainbow
+The rainbow and the unicorn
 Red
 Orange
 Yellow
@@ -8,3 +8,4 @@ Indigo
 Violet
 These are the colors of the rainbow
 And they are beautiful
+And the unicorn is pretty
