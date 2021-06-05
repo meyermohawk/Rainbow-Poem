@@ -7,3 +7,4 @@ Blue
 Indigo
 Violet
 These are the colors of the rainbow
+And they are beautiful
