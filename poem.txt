@@ -6,6 +6,7 @@ Green
 Blue
 Indigo
 Violet
+Ultraviolet
 These are the colors of the rainbow
 And they are beautiful
 And the unicorn is pretty
